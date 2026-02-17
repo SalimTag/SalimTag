@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Software+Engineer+%7C+AI+%26+Full-Stack+Specialist;Building+Scalable+Systems+Powered+by+AI+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Software+Engineer+%7C+Full-Stack+%26+AI+Systems;Building+Scalable+Products+from+Idea+to+Production+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -26,6 +26,7 @@ const salim = {
   exchanges:  ["Pisa 🇮🇹", "Zurich 🇨🇭", "New York 🇺🇸"],
   focus:      ["Full-Stack Engineering", "AI & Computer Vision", "Cloud Architecture"],
   stack:      ["React", "Spring Boot", "FastAPI", "PyTorch", "Docker"],
+  currently:  "Building things that matter 🔨",
   status:     "Open to opportunities 👀",
 };
 ```
@@ -34,20 +35,21 @@ const salim = {
 - 🔥 Built an end-to-end **AI wildfire detection system** using YOLOv8 + FastAPI
 - 🍯 Designed and shipped a **full e-commerce platform** with multilingual support
 - ✈️ Worked on **ERP systems** used by 500+ employees at Royal Air Maroc
-- 📱 Love crafting **cross-platform mobile apps** with React + Capacitor
+- 📱 Love crafting **cross-platform apps** that run on Web, iOS, and Android
 
 ---
 
 ## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="50px" align="center">✈️</td>
 <td>
 <b>ERP Developer Intern — Royal Air Maroc</b><br/>
-Built ERP modules used by <b>500+ employees</b>, optimized Oracle SQL queries, and automated reporting workflows that significantly reduced operational overhead.
+Built and integrated ERP modules used by <b>500+ employees</b>. Optimized Oracle SQL queries and automated reporting workflows, significantly reducing operational overhead.
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center">🍯</td>
 <td>
@@ -55,11 +57,12 @@ Built ERP modules used by <b>500+ employees</b>, optimized Oracle SQL queries, a
 Designed and deployed a production e-commerce platform with JWT auth, secure payments, Docker infrastructure, and Arabic/French/English i18n support.
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center">🔥</td>
 <td>
 <b>Capstone Project — AI Forest Fire Detection</b><br/>
-Built a computer vision pipeline with YOLOv8 + FastAPI combining image data and meteorological factors for real-time wildfire risk assessment.
+Built a full computer vision pipeline using YOLOv8 + FastAPI, combining image data and meteorological factors for real-time wildfire risk assessment and alerting.
 </td>
 </tr>
 </table>
